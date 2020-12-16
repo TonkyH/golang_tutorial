@@ -1,4 +1,4 @@
 # golang_tutorial
 
-A Tour of GO
+A Tour of Go
 - https://go-tour-jp.appspot.com/list
